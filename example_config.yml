@@ -7,7 +7,7 @@
 
 ## Set the primary_server if you want to make role permissions available via PM
 ## This will also prevent your instance from joining other servers
-# primary_server: your_server_id
+# primary_server: 529471607282860032
 
 ## Set ignore_role to the name or id of a role if you want that role to be applied when you !ignore someone
 # ignore_role: name_or_id_of_role
@@ -32,7 +32,7 @@
 
 ## Set name to be the username you wish to use for Beymax
 ## Beymax will change its username if this value has changed since the last startup
-# name: Beymax
+# name: WetClub's bot
 
 ## Set send_traces to True if you want Beymax to send stack traces to the bugs channel
 ## Anytime Beymax encounters an exception it will be posted to the bugs channel instead of just printed to Beymax's console
